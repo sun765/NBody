@@ -27,7 +27,7 @@ public class StdDrawDemo {
 		StdDraw.picture(75, -75, imageToDraw);
 
 		/* Shows the drawing to the screen, and waits 2000 milliseconds. */	
-		StdDraw.show(2000);		
+		//StdDraw.show(2000);		
 	}
 
 	/* Draws random copies of the image, clearing in between
@@ -46,7 +46,7 @@ public class StdDrawDemo {
 			/* Clears the screen. */
 			StdDraw.clear();
 			StdDraw.picture(x, y, imageToDraw);
-			StdDraw.show(waitTimeMilliseconds);
+			//StdDraw.show(waitTimeMilliseconds);
 
 			/* Reduce wait time for each thing drawn, but
 			 * never wait less than 10 milliseconds. */
@@ -67,7 +67,7 @@ public class StdDrawDemo {
 		while (size < 500) {
 			StdDraw.clear();
 			StdDraw.picture(0, 0, imageToDraw, size, size);
-			StdDraw.show(10);
+			//StdDraw.show(10);
 			size += 1;
 		}
 
