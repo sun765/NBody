@@ -1,0 +1,2 @@
+24 Dec 2018 1:30:14 GMT: Log 'EclipseCompiler.txt' opened: 24 Dec 2018 1:30:14 GMT with name D:\purdue\Data Structure\files\skeleton-sp16\proj0\EclipseCompiler.txt
+24 Dec 2018 1:30:37 GMT: Log 'EclipseCompiler.txt' opened: 24 Dec 2018 1:30:37 GMT with name D:\purdue\Data Structure\files\skeleton-sp16\proj0\EclipseCompiler.txt
